@@ -10,3 +10,5 @@ doc - directory containing the documentation. The main page of the
 samples - directory storing simple executable files using sglib.h.
           You can run all  the samples together with self-test routine
           by running make in this directory.
+
+From: http://sglib.sourceforge.net/
